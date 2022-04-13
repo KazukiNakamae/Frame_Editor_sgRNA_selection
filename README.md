@@ -35,7 +35,7 @@ The Python script used for the selection process was the following section.
 
 ---
 
-## Script used for selection process
+## Script
 
 ### Get target sequence (Upstream 13bp + protospacer + PAM + Downstream 24bp) using Blat
 
