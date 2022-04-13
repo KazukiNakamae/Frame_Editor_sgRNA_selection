@@ -60,7 +60,7 @@ python ExtendSeq.py -i sgRNALibrary.csv -o sgRNALibrary_extended.csv -s "sgRNA s
 conda deactivate;
 ```
 
-### Get a guide RNA selection
+### Get the sgRNA set
 
 ```bash
 # create enviroment
