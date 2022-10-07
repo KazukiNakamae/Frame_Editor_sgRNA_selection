@@ -1,11 +1,6 @@
 # Frame_Editor_sgRNA_selection
 
-We selected the gRNA dataset using the below script. 
-
-We referred to the following reports to develop it.
-1. Shalem, Ophir, et al. Genome-scale CRISPR-Cas9 knockout screening in human cells. Science 343, 84-87 (2014).
-2. Sondka, Zbyslaw, et al. The COSMIC Cancer Gene Census: describing genetic dysfunction across all human cancers. Nature Reviews Cancer 18 696-705 (2018).
-3. Shen, Max W., et al. Predictable and precise template-free CRISPR editing of pathogenic variants. Nature 563, 646-651 (2018).
+We used the below script. 
 
 ---
 
@@ -62,3 +57,8 @@ conda deactivate;
 # check specificity using GGGenome(https://gggenome.dbcls.jp/ja/)
 
 ```
+
+### References
+1. Shalem, Ophir, et al. Genome-scale CRISPR-Cas9 knockout screening in human cells. Science 343, 84-87 (2014).
+2. Sondka, Zbyslaw, et al. The COSMIC Cancer Gene Census: describing genetic dysfunction across all human cancers. Nature Reviews Cancer 18 696-705 (2018).
+3. Shen, Max W., et al. Predictable and precise template-free CRISPR editing of pathogenic variants. Nature 563, 646-651 (2018).
